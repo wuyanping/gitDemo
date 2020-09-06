@@ -8,4 +8,6 @@ git diff
 git reset --hard commitId
 git log --pretty=oneline
 git reflog
-dsfa
+
+
+工作区-》stage暂存区-》版本库
