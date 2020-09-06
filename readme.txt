@@ -42,15 +42,3 @@ master
 maseter222
 git branch -d <branchName》
 git merge 《branchName》
-
-
-feature1
-
-
-
-mastermaster
-
-f1
-
-
-mmmmmmmmmm
