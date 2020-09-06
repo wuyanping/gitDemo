@@ -17,3 +17,8 @@ git reflog
 分2中情况：
 工作修改还没放到stage区，撤销到工作区
 工作区已经放到stage区，撤销到stage区
+
+
+reset 竟可以回退版本，也可以把暂存区回退到工作区
+
+git reset HEAD <FILE>
