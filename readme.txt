@@ -36,3 +36,6 @@ git clone 《git address》
 git checkout -b <branchName>
 git branch
 git checkout <branchName>
+
+
+master
