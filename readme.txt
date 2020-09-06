@@ -31,3 +31,8 @@ git push -u origin master
 
 
 git clone 《git address》
+
+分支
+git checkout -b <branchName>
+git branch
+git checkout <branchName>
