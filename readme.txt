@@ -35,8 +35,13 @@ git clone 《git address》
 分支
 git checkout -b <branchName>
 git branch
+git branch <branchName>
 git checkout <branchName>
-
 
 master
 maseter222
+git branch -d <branchName》
+git merge 《branchName》
+
+
+feature1
