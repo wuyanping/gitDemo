@@ -42,3 +42,8 @@ git branch -d <branchName》
 git merge 《branchName》
 
 tag2
+
+
+tag
+git tag v1.0
+git tag
