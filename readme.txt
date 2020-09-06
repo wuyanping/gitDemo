@@ -1,2 +1,3 @@
-git is version control system
-git is free software
+git init
+git add <文件名>
+git commit -m "message"
