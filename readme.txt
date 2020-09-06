@@ -22,3 +22,12 @@ git reflog
 reset 竟可以回退版本，也可以把暂存区回退到工作区
 
 git reset HEAD <FILE>
+
+远程
+git remote add origin <git address>
+origin: 远程的名字
+git push -u origin master
+-u 把本地master push到远程master ，还把本地master 与远程master 相关联，以后只要git push git pull就可以了
+
+
+git clone 《git address》
