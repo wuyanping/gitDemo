@@ -35,4 +35,10 @@ git clone 《git address》
 分支
 git checkout -b <branchName>
 git branch
+git branch <branchName>
 git checkout <branchName>
+git branch -d <branchName》
+git merge 《branchName》
+
+
+feature1
