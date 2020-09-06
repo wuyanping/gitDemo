@@ -38,29 +38,6 @@ git checkout -b <branchName>
 git branch
 git branch <branchName>
 git checkout <branchName>
-
-master
-maseter222
 git branch -d <branchName》
 git merge 《branchName》
 
-
-test
-m
-mm
-
-b
-bb
-
-cc
-ccc
-cccc
-
-mastermaster
-
-f1
-
-f2222
-222
-333
-44444
