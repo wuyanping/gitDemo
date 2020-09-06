@@ -11,3 +11,9 @@ git reflog
 
 
 工作区-》stage暂存区-》版本库
+
+
+撤销工作区内容 git checkout -- <file>
+分2中情况：
+工作修改还没放到stage区，撤销到工作区
+工作区已经放到stage区，撤销到stage区
