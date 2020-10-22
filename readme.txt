@@ -21,7 +21,7 @@ git reflog
 
 
 reset 竟可以回退版本，也可以把暂存区回退到工作区
-1
+11
 git reset HEAD <FILE>
 
 远程
